@@ -336,7 +336,6 @@ section {
 
 /*----MEDIA QUERIES-----*/
 
-
 @media all and (max-width:640px) and (min-width:381px) {
     .head-main { 
         font-size: 28px ;
@@ -363,4 +362,5 @@ section {
     width: 1170px;
   }
 }
+
 

@@ -1,0 +1,76 @@
+body{
+	font-Family: sans-serif,Arial, Helvetica;
+    background-color:#c6d8ec;
+}
+
+.main-form {
+	width: 500px;
+	height: 650px;
+    background: #fff;
+    border-radius: 20px;
+    overflow: hidden;
+	position: relative;
+	text-align: center;
+	padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+	margin-top: 100px;
+}
+
+.header {
+	font-size: 15px;
+	text-align: center;
+}
+
+.contact-info input {
+    font-size: 15px;
+    color: #1b3815;
+    position: relative;
+    width: 300px;
+    height: 30px;
+    background: #ebebeb;
+    border-radius: 27px;
+	text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+	
+}
+
+li  {
+	text-align: left;
+	
+}
+
+.select-photo {
+	border:2px solid black;
+	border-radius:25px;
+}
+
+label {
+	margin-left: -3px;
+}	
+
+
+
+.submit input {
+	font-size: 15px;
+    color: #1b3815;
+    position: relative;
+    width: 100px;
+    height: 30px;
+    background: #c2c2d6;
+    border-radius: 27px;
+	text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+footer {
+    background-color:#8cb1d9;
+    text-shadow: 2px 2px 8px 0 (0,0,0,0.4);
+    padding: 20px 50px 20px 50px;
+    text-align: center;
+}
+
+
